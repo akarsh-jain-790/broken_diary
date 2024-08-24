@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718606030254",
+    "project_id": "broken-crave-notes",
+    "storage_bucket": "broken-crave-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718606030254:android:bb35c76a18f6f4ec81643f",
+        "android_client_info": {
+          "package_name": "com.broken.crave.broken_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_6gBBg9pkGd9jsI0yKQNSm2oPobw-FlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
